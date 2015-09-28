@@ -76,7 +76,7 @@
         <commons-codec.version>1.4</commons-codec.version>
         <commons-lang.version>2.3</commons-lang.version>
         <log4j.version>1.2.9</log4j.version>
-        <ical4j.version>1.0.8</ical4j.version>
+        <ical4j.version>1.0.6</ical4j.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
