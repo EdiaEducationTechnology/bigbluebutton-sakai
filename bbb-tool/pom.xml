@@ -153,6 +153,7 @@
                 <enabled>false</enabled>
             </snapshots>
         </repository>
+        <!--
         <repository>
             <id>modularity-releases</id>
             <name>Modularity Releases Repository</name>
@@ -164,6 +165,7 @@
                 <enabled>false</enabled>
             </snapshots>
         </repository>
+        -->
 	</repositories>
 
     <profiles>
